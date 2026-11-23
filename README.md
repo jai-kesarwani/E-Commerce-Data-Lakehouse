@@ -112,4 +112,4 @@ Add screenshots of the successful Job run, Gold table validation, streaming coun
 - Add automated quality alerts and a BI dashboard.
 
 ## Author
-**Ritu Shree** | Information Science and Engineering
+**Jai Kesarwani** | Information Science and Engineering
